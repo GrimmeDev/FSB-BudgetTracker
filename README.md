@@ -16,7 +16,7 @@ You can enter 2 values, a text string and number, that will track expenses or ga
 MIT
 #### Example Images
 ![Example Budget](images/budgetTracker.png)
-![Example Budget, offline](images/budgetTracker.png)
+![Example Budget, offline](images/budgetTracker-offline.png)
 
 #### Live link
 [Budget Tracker](https://calm-ridge-27065.herokuapp.com/)
